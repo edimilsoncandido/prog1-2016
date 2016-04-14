@@ -1,0 +1,7 @@
+#incluide <stdio>
+
+int main()
+{
+    printf("segundo programa");
+    return 0;
+}
